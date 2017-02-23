@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "SF.IntegrationTest", "SF.IntegrationTest\SF.IntegrationTest.sfproj", "{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF.IntegrationTests.Runner", "SF.IntegrationTests.Runner\SF.IntegrationTests.Runner.csproj", "{41CA3054-E055-40C8-9EC2-C31F732CD9AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF.IntegrationTests.Coordinator", "SF.IntegrationTests.Coordinator\SF.IntegrationTests.Coordinator.csproj", "{101236CC-BD85-4978-A2FC-FF9B813EC029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Debug|x64.ActiveCfg = Debug|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Debug|x64.Build.0 = Debug|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Debug|x64.Deploy.0 = Debug|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Release|Any CPU.ActiveCfg = Release|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Release|x64.ActiveCfg = Release|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Release|x64.Build.0 = Release|x64
+		{840D2096-E2AA-4B4D-AEA8-503EEE6DDBA9}.Release|x64.Deploy.0 = Release|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Debug|x64.ActiveCfg = Debug|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Debug|x64.Build.0 = Debug|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Release|Any CPU.ActiveCfg = Release|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Release|x64.ActiveCfg = Release|x64
+		{41CA3054-E055-40C8-9EC2-C31F732CD9AC}.Release|x64.Build.0 = Release|x64
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Debug|x64.ActiveCfg = Debug|x64
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Debug|x64.Build.0 = Debug|x64
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Release|x64.ActiveCfg = Release|Any CPU
+		{101236CC-BD85-4978-A2FC-FF9B813EC029}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

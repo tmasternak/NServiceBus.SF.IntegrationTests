@@ -1,0 +1,9 @@
+*.dll
+SF.IntegrationTestsSample/packages/
+SF.IntegrationTestsSample/SF.IntegrationTests.Runner/obj/
+SF.IntegrationTestsSample/SF.IntegrationTests.Runner/bin/
+SF.IntegrationTestsSample/SF.IntegrationTests.Coordinator/bin/
+SF.IntegrationTestsSample/.vs/
+SF.IntegrationTestsSample/SF.IntegrationTests.Coordinator/obj/
+SF.IntegrationTestsSample/SF.IntegrationTest/obj/
+SF.IntegrationTestsSample/SF.IntegrationTest/pkg/
